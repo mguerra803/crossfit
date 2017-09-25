@@ -1,0 +1,91 @@
+
+#quienes {
+    width:282px;
+    margin:auto;
+}
+.lead {
+    text-align:justify;
+}
+
+.negrita {
+    font-weight:bold;
+}
+.dtClass {
+    font-size:150%;
+}
+
+.footer-bot {
+    background-color:#c81a1a;
+}
+
+.texto-footer {
+    color: white;
+    text-align:center;
+}
+
+/* Sólo para página de precios */
+
+.tituloh1 {
+    text-align: center;
+}
+
+#titulo-ret {
+    color: red;
+}
+
+.efecto {
+    -webkit-transition: width 1.5s ease;
+    transition: width 1.5s ease;
+    width:770px;
+}
+
+.efecto:hover {
+    width: 900px;
+}
+
+#titulo-dieta {
+    text-align: center;
+}
+
+#flotante {
+    float:left;
+    margin-right: 20px;
+    -webkit-transition: width 1.5s ease;
+    transition: width 1.5s ease;
+    width:375px;
+}
+
+#flotante:hover {
+    width: 600px;
+}
+
+#titulo-contacto {
+    text-align: center;
+}
+
+#img-contact{
+    float: left;
+}
+
+#text-mapa {
+	text-align: left;
+	color: blue;
+}
+
+#mapa {
+	width: 443px;
+	height: 350px;
+}
+
+/*
+#tel {
+	text-align: center;
+}
+*/
+#otros {
+	text-align: center;
+}
+
+.derecha {
+    float:"right";
+}
